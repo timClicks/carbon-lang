@@ -1,0 +1,1 @@
+curl https://www.unicode.org/Public/UCD/latest/ucd/Scripts.txt > scripts.txt

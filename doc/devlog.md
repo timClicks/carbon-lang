@@ -12,3 +12,4 @@
 ## 7 dec
 
 - more readme tinkering
+- identifier parser generator code generation
