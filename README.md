@@ -21,13 +21,14 @@ Users can prefer to prioritize `time` or `memory` at an instance-specific.
 
 ## Tour
 
+CARBON is an unusual programming language, so it may as well use unusual syntax.
+
 Scalar types:
 
-- Atoms: whitespace-delimited
-- Numbers: `1`, `2.0`, `-9`,
-- Text: `"some words"`
-
-CARBON is an unusual programming language, so it may as well use unusual syntax.
+- Atoms: `whitespace-delimited` `façade`
+- Numbers: `1`, `2.0`, `-9`
+- Text: `" some words "`
+- Regular expressions: `/ [abc]+ /`
 
 - Lists: `[ 1 2 3 ]`
 - Sets: `{ 1 2 3 }`

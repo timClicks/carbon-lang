@@ -7,4 +7,8 @@
 
 ## 6 dec
 
-found https://www.unicode.org/Public/UCD/latest/ucd/Scripts.txt
+- found https://www.unicode.org/Public/UCD/latest/ucd/Scripts.txt
+
+## 7 dec
+
+- more readme tinkering
